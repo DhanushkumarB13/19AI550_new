@@ -1,7 +1,7 @@
 # Ex.No: 3  Basic movements in Unity 
 ### DATE: 28-04-2024                                                                          
 ### REGISTER NUMBER : 212224240034
-### Name : FRANKLIN.F
+### Name : B DHANUSH KUMAR
 ### AIM: 
  To learn the basic movements translation,scaling and rotation of game objects through code.
 ### Procedure:
