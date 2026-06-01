@@ -1,6 +1,6 @@
 # Ex.No: 10  Implementation of 2D game using c# language and AI technology.
 ### DATE: 21-05-26                                                                        
-### REGISTER NUMBER : 212224240041
+### REGISTER NUMBER : 212224240034
 ### AIM: 
  To develop a 2D Mario-style platformer game in Unity with coin collection, enemy interaction, and score display using c# language and AI.
 ### Algorithm:
